@@ -20,12 +20,14 @@
 
 ## 🛠 Languages and Tools
 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/openjdk/jdk/master/src/share/logo/jdk-logo.png" width="40" alt="Java"/> Java
+  <img src="https://raw.githubusercontent.com/dotnet/media/main/logo/dotnet-logo.png" width="40" alt="C#"/> C#
+  <img src="https://www.arduino.cc/en/uploads/Main/Arduino_Logo.svg" width="40" alt="Arduino"/> Arduino
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40" alt="C"/> C
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" alt="C++"/> C++
+  <img src="https://raw.githubusercontent.com/mysql/mysql-server/8.0/logo/mysql-logo.svg" width="40" alt="MySQL"/> MySQL
+</p>
 
 ---
 
