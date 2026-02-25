@@ -1,48 +1,57 @@
-# Hi 👋, I'm Alex Draghici
+<h1 align="center">Hi 👋, I'm Alex Draghici</h1>
+<h3 align="center">Passionate Computer and Automation Engineering student exploring programming and new technologies.</h3>
 
-🎓 Computer and Automation Engineering Student  
-💡 Passionate about programming, embedded systems, and automation  
-🚀 Exploring new technologies and constantly improving  
-
----
-
-## 📫 How to reach me
-
-📧 Email: alexdraghici2104@gmail.com  
-
----
-
-## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-draghici-63388b190/)
-
----
-
-## 🛠 Languages and Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/openjdk/jdk/master/src/share/logo/jdk-logo.png" width="40" alt="Java"/> Java
-  <img src="https://raw.githubusercontent.com/dotnet/media/main/logo/dotnet-logo.png" width="40" alt="C#"/> C#
-  <img src="https://www.arduino.cc/en/uploads/Main/Arduino_Logo.svg" width="40" alt="Arduino"/> Arduino
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40" alt="C"/> C
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" alt="C++"/> C++
-  <img src="https://raw.githubusercontent.com/mysql/mysql-server/8.0/logo/mysql-logo.svg" width="40" alt="MySQL"/> MySQL
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cincaalex&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=DraghiciAlexandru&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DraghiciAlexandru&layout=compact&theme=tokyonight)
-
----
-
-## 👀 Profile Views
-
-![Profile views](https://komarev.com/ghpvc/?username=DraghiciAlexandru&color=blue)
+<h3 align="left">📫 How to reach me:</h3>
+<p align="left">
+  <a href="mailto:alexdraghici2104@gmail.com" target="_blank">
+    <strong>Email:</strong> alexdraghici2104@gmail.com
+  </a>
+</p>
 
 ---
 
-⭐ From Romania | Engineering Mindset | Code • Build • Improve
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/alex-draghici-63388b190/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  </a>
+  <a href="https://developer.nvidia.com/cuda-zone" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cuda/cuda-original.svg" alt="CUDA" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  </a>
+</p>
