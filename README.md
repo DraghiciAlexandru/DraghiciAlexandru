@@ -49,7 +49,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   </a>
   <a href="https://developer.nvidia.com/cuda-zone" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cuda/cuda-original.svg" alt="CUDA" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" alt="CUDA" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
